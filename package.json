@@ -1,0 +1,15 @@
+{
+  "name": "wcbzh",
+  "version": "1.0.0",
+  "description": "Test de différents composants Gutenberg pour le WordCamp Bretagne",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "audrasjb",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@wordpress/scripts": "^29.0.0"
+  }
+}
